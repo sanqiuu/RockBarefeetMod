@@ -2,6 +2,8 @@
 
 一款适用于 **洛克王国：世界** 游戏的脱鞋 Mod，让角色光脚行走。
 
+![预览](assets/images/lkwg_barefeet.PNG)
+
 ---
 
 ## 使用方法
